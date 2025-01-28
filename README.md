@@ -6,7 +6,7 @@ Pull Requests/Contributions are more than welcome, and we would love all the hel
    - [Ranking](#Ranking)
    - [IStealYourDNS](#IStealYourDNS)
 - [Program Blocker Bypassing](#Program-Blocker-Bypassing)
-  - [Windows .exe Unblock](#Windows-.exe-unblock)
+  - [Windows .exe Unblock](#Windows-exe-unblock)
 - [Monitoring Software Disabling](#Monitoring-Software-Disabling)
   - [Disabling LanSchool Air](#Disabling-LanSchool-Air)
 - [Proxy Sources](#Proxy-Sources)
