@@ -8,7 +8,7 @@ Pull Requests/Contributions are more than welcome, and we would love all the hel
 - [Program Blocker Bypassing](#Program-Blocker-Bypassing)
   - [Windows .exe Unblock](#Windows-exe-unblock)
 - [Monitoring Software Disabling](#Monitoring-Software-Disabling)
-  - [Disabling LanSchool Air](#Disabling-LanSchool-Air)
+  - [Disabling LanSchool Air](#Disable-LanSchool-Air)
 - [Proxy Sources](#Proxy-Sources)
   - [Holy Unblocker](#Holy-Unblocker)
   - [Node Unblocker](#Node-Unblocker)
